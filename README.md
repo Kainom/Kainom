@@ -5,7 +5,7 @@
 
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I❤️ solve big challenges using technology. <br><br> I like the questions about the backend, but I've been taking a lot of risks in the frontend. I generally develop the backend with Java, currently trying to study Node.js. In the frontend I use JavaScript, HTML5 and CSS3, trying to learn some of the most used frameWorks for both Js and Java  <strong>I'm passionate about coffee and super focused on becoming a good developer</strong> Today I am a <strong>beginning developer, seeking to master the most interesting technologies with excellence.I am a software engineering student, possessing knowledge beyond the developer field</strong> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Kainom&theme=radical&mode=weekly" />
