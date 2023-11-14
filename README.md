@@ -1,6 +1,6 @@
 
-<img align="center" style="margin-bottom:100px" width=100% heigth=20% src=https://github.com/Kainom/Kainom/assets/132066859/995421f7-16ba-4dbc-9382-40ab9bd30b84
- />
+<img align="center" style="margin-bottom:100px" width=100% heigth=20% src=https://github.com/Kainom/Kainom/assets/132066859/c053c6b9-b21f-436a-a99c-9cf567d3f950
+/>
 &nbsp;&nbsp;&nbsp;
 
 
