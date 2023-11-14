@@ -1,6 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+# Hi, i´m Kainã
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
@@ -8,7 +7,7 @@
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Kainom&theme=radical&mode=weekly" />
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-<img width=30% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=30% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Kainom&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -30,9 +29,8 @@
 
 #### Secondary Stack:
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-)&nbsp;
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 #### Studying in this moment:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
