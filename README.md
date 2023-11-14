@@ -1,5 +1,9 @@
 
-# Hi, i´m Kainã
+<img align="center" style="margin-bottom:100px" width=100% heigth=20% src=https://github.com/Kainom/Kainom/assets/132066859/995421f7-16ba-4dbc-9382-40ab9bd30b84
+ />
+&nbsp;&nbsp;&nbsp;
+
+
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
