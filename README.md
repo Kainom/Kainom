@@ -8,11 +8,12 @@
 <p align="center">I❤️ solve big challenges using technology. <br><br> I like the questions about the backend, but I've been taking a lot of risks in the frontend. I generally develop the backend with Java, currently trying to study Node.js. In the frontend I use JavaScript, HTML5 and CSS3, trying to learn some of the most used frameWorks for both Js and Java  <strong>I'm passionate about coffee and super focused on becoming a good developer</strong> Today I am a <strong>beginning developer, seeking to master the most interesting technologies with excellence.I am a software engineering student, possessing knowledge beyond the developer field</strong> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Kainom&theme=radical&mode=weekly" />
+<img width=30% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kainom&layout=compact&theme=ambient_gradient" />
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-<img width=30% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Kainom&show_icons=true&theme=radical&layout=compact" />
+<img width=39% align="center" src="https://github-readme-stats.vercel.app/api?username=Kainom&show_icons=true&theme=ambient_gradient" />
  </div>
+
+
  
  &nbsp;
  &nbsp;
@@ -78,4 +79,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&textBg=false&section=footer&fontAlignY=80&stroke=0"/>
