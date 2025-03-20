@@ -34,7 +34,6 @@
 
 #### Secondary Stack:
 
-<p style="color:blue">Make this text blue.</p>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
