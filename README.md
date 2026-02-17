@@ -14,7 +14,7 @@ src=https://github.com/Kainom/Kainom/assets/132066859/c053c6b9-b21f-436a-a99c-9c
 
 <img 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=360&lines=Hello%2C+I+am+Kainã"
-  alt="Hello I am Kaina"
+  alt="Hello I am Kainã"
 />
 
 
