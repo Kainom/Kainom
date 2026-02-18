@@ -62,6 +62,9 @@ I am a software engineering student, possessing knowledge beyond the developer f
 ![Podman](https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=Podman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
      min-width="400px"
@@ -81,6 +84,7 @@ I am a software engineering student, possessing knowledge beyond the developer f
 ![FastApi](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -89,6 +93,7 @@ I am a software engineering student, possessing knowledge beyond the developer f
 ![Mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)&nbsp;
 ![MariaDb](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)&nbsp;
+
 
 #### Workstation Tools:
 
@@ -101,6 +106,7 @@ I am a software engineering student, possessing knowledge beyond the developer f
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)&nbsp;
 ![Mint](https://img.shields.io/badge/Linux%20Mint-86BE43.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
