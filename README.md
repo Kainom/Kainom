@@ -7,8 +7,8 @@ src=https://github.com/Kainom/Kainom/assets/132066859/c053c6b9-b21f-436a-a99c-9c
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:16px; margin-bottom:40px;">
   
   <img 
-    src="https://i.pinimg.com/originals/79/3e/fd/793efdb022838443280c69de39ca3d91.gif"
-    width="420"
+    src="https://i.pinimg.com/originals/08/f1/25/08f1257a39dfa319b93349d3102887e8.gif"
+    width="520"
     style="border-radius:16px;"
   />
 
@@ -23,14 +23,15 @@ src=https://github.com/Kainom/Kainom/assets/132066859/c053c6b9-b21f-436a-a99c-9c
 &nbsp;
 
 <p align="center">
-I❤️ solve big challenges using technology.
+I solve problems using technology  
 <br><br>
-I like the questions about the backend, but I've been taking a lot of risks in the frontend.
-I generally develop the backend with Java, currently trying to study Node.js.
-In the frontend I use JavaScript, HTML5 and CSS3, trying to learn some of the most used frameWorks for both Js and Java
-<strong>I'm passionate about coffee and super focused on becoming a good developer</strong>
-Today I am a <strong>beginning developer, seeking to master the most interesting technologies with excellence.
-I am a software engineering student, possessing knowledge beyond the developer field</strong>
+I am a backend developer, generally developing with the Java environment—Spring Boot, Spring Cloud, Quarkus, Hibernate, and others. 
+I basically love everything related to the Java ecosystem.
+I'm also falling in love with containers and DevOps, especially architectures involving Podman, Kubernetes, and Docker. 
+My focus is on the cloud ecosystem, specifically the AWS cloud ecosystem but I also handle traditional and legacy applications.
+My main expertise is Java, but I'm also proficient in Node.js, Laravel, and FastAPI.
+Learning new frameworks isn't a problem for me, and I always get the job done efficiently. While I'm proficient in React and Next.js, I specialize in Backend development and Cloud Architecture.
+
 </p>
 
 &nbsp;
@@ -66,12 +67,14 @@ I am a software engineering student, possessing knowledge beyond the developer f
 ![Next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-     min-width="400px"
-     max-width="400px"
-     width="400px"
+<img src="https://github.com/user-attachments/assets/099e7b99-08cd-4b8b-8f99-dc52d354143e"
+     min-width="300px"
+     max-width="300px"
+     width="300px"
      align="right"
      alt="Computador iuriCode">
+
+
 
 #### Secondary Stack:
 
