@@ -25,7 +25,7 @@ src=https://github.com/Kainom/Kainom/assets/132066859/c053c6b9-b21f-436a-a99c-9c
 <p align="center">
 I solve problems using technology  
 <br><br>
-I am a backend developer, generally developing with the Java environment—Spring Boot, Spring Cloud, Quarkus, Hibernate, and others. 
+I am a backend developer, generally developing with the Java environment — Spring Boot, Spring Cloud, Quarkus, Hibernate, and others. 
 I basically love everything related to the Java ecosystem.
 I'm also falling in love with containers and DevOps, especially architectures involving Podman, Kubernetes, and Docker. 
 My focus is on the cloud ecosystem, specifically the AWS cloud ecosystem but I also handle traditional and legacy applications.
